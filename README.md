@@ -1,4 +1,4 @@
-# Hi, I'm Kabiru Wahab 👋
+# Hi, I'm Kabiru Wahab Lekan 👋
 
 ### Senior Full-Stack Engineer | Backend Specialist | Technical Lead | Product Builder
 
@@ -29,7 +29,7 @@ Throughout my career, I have contributed to products ranging from financial tran
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-REST APIs · Microservices · Authentication & Authorization · Payment Integrations · Database Design · System Architecture
+REST APIs · Microservices · Authentication & Authorization · Fintech Integrations · Database Design · System Architecture 
 
 ### Frontend Development
 
@@ -65,6 +65,20 @@ Docker · CI/CD · Linux Server Management · Apache · Bull · AWS · LLM Integ
 
 ## 🚀 Featured Projects
 
+### 🏢  Enterprise Applications**
+
+> Backend systems and APIs supporting government operations, asset management, and enterprise workflows.
+
+- **Role:** Backend Developer
+- **Tech Stack:** NestJS, Laravel, TypeScript
+- **Key Features:** Asset management, customer APIs, transaction management, and notification services.
+- **Projects:** Government asset management systems, LAWMA platform, and NokAlert.
+- 
+
+**Focus:** Backend engineering, notification systems, and enterprise applications.
+
+---
+
 ### 🛠️ Ise Owo — Service Marketplace
 
 > A digital marketplace connecting Nigerian homeowners and businesses with skilled artisans for everyday home services.
@@ -76,11 +90,11 @@ Docker · CI/CD · Linux Server Management · Apache · Bull · AWS · LLM Integ
 - **Mobile:** Cross-platform applications for Android and iOS.
 - **Key Features:** Artisan discovery, identity verification, bookings, secure payments, digital wallet, real-time chat, job tracking, reviews, recurring bookings, and SOS safety alerts.
 
-**Live Links:** [Google Play](https://play.google.com/store/apps/details?id=com.iseowoapp.mobile) | [App Store](https://apps.apple.com/ng/app/ise-owo/id6794422883)
+**Live Links:** [Website](https://iseowoapp.com/) [Google Play](https://play.google.com/store/apps/details?id=com.iseowoapp.mobile) | [App Store](https://apps.apple.com/ng/app/ise-owo/id6794422883)
 
 ---
 
-### 💰 GAPhubPRISM — Financial Management System
+### 💰 MyGaphub — Financial Management System
 
 > A financial assistance and personal finance platform supporting digital financial services.
 
@@ -172,37 +186,17 @@ Docker · CI/CD · Linux Server Management · Apache · Bull · AWS · LLM Integ
 
 ---
 
-### 🏢  Enterprise Applications**
+### 🏡 GAP PropertyHub — Real Estate Platform
 
-> Backend systems and APIs supporting government operations, asset management, and enterprise workflows.
+> A digital real estate platform designed to streamline property discovery and management through an accessible web experience.
 
-- **Role:** Backend Developer
-- **Tech Stack:** NestJS, Laravel, TypeScript
-- **Key Features:** Asset management, customer APIs, transaction management, and notification services.
-- **Projects:** Government asset management systems, LAWMA platform, and NokAlert.
-- 
+- **Role:** Lead Developer at Infoscert Consulting
+- **Tech Stack:** Laravel, PHP, JavaScript, MySQL
+- **Key Contributions:** Developed a custom real estate web application with content management capabilities, enabling administrators to manage property-related content and platform information.
+- **Focus:** Real estate technology, property discovery, web application development, and administrative content management.
 
-**Focus:** Backend engineering, notification systems, and enterprise applications.
+**Live Links:** [Website](https://gappropertyhub.com/)
 
----
-
-### 🏢 MyGaphub, Real Estate & Enterprise Solutions
-
-> Business applications built for financial assistance, property management, human resources, and enterprise integrations.
-
-- **Role:** Full-Stack Developer & Lead Developer at Infoscert Consulting
-- **Technologies:** Laravel, PHP, JavaScript, OpenCart, WHMCS, Vtiger
-- **Selected Contributions:**
-  - Built a custom real estate web application with administrative content management.
-  - Developed a Human Resources Management System (HRMS).
-  - Created WHMCS payment plugins and business integrations.
-  - Developed an OpenCart payment plugin for Attods.
-  - Built a map reporting plugin for Vtiger.
-  - Led API and web development for financial assistance and savings products.
-
-**Focus:** Business software, financial services, real estate, and enterprise integrations.
-
----
 
 ## 💼 Professional Experience
 
